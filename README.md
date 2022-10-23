@@ -19,4 +19,3 @@ Pull requests are welcome. However, for major changes, please open an issue firs
 - Please run this in ur prefered IDE (ex: Rider, Visual Studio), as this is the only possible way to run it, at the moment.
 - A better implementation is coming in the near future.
 
-[MIT](https//choosealicense.com/licenses/mit/)
