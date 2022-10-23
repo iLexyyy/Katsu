@@ -5,6 +5,7 @@
 
 Fortnite Mappings Downloader.
 
+-----------------
 
 Improved Changes:
 - Made the program ask you if you would like to import the mappings to FModel.
