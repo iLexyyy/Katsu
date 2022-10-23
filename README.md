@@ -7,6 +7,6 @@ Fortnite Mappings Downloader.
 
 ## Build
 
-|| git clone https://github.com/iLexyyy/Katsu
+| git clone https://github.com/iLexyyy/Katsu
 
 ## Documentation
