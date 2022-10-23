@@ -5,6 +5,11 @@
 
 Fortnite Mappings Downloader.
 
+```Improved Changes:
+   - Made the program ask you if you would like to import the mappings to FModel.
+   - Loop through mappings, this is prefered on update day. (This will be a delayed loop, around 3 seconds, so we don't spam the api.)
+```
+
 ## Build
 
 ```bash
