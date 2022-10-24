@@ -5,10 +5,6 @@
 
 Fortnite Mappings Downloader.
 
-```
-- Please note, this is my first C# Project ever made + published to public, cleaner code is not an option for me until I learn more.
-```
-
 
 ## Build
 
