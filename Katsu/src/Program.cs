@@ -27,7 +27,7 @@ namespace Katsu
             EDirectoryManage EDirectoryCreator = new EDirectoryManage();
             // ?
 
-            var choice = AnsiConsole.Prompt(
+            var UserInputChoice = AnsiConsole.Prompt(
                 new SelectionPrompt<string>()
                     .Title("[blue]What would you like to do?[/]")
                     .HighlightStyle("45")
